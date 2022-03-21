@@ -1,11 +1,22 @@
 html {
-  margin: 0px;
-  height: 100%;
-  width: 100%;
+  position: relative;
+  min-height: 100%;
+  min-width: 100px;
+  background-color: #F5F5F5
 }
 
 body {
-  margin: 0px;
-  min-height: 100%;
-  width: 100%;
+  margin: 60px auto;
+  width: 900px;
+  font-family: Arial
+}
+
+img {
+  height: 543px;
+  width: 863px;
+  margin-bottom: 20px;
+}
+
+.tabs {
+  margin-right: 2em
 }

@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/JamesWeber_DA_W22Portfolio/static/css/main.0ef229a7.css",
-    "main.js": "/JamesWeber_DA_W22Portfolio/static/js/main.cec606a4.js",
+    "main.css": "/JamesWeber_DA_W22Portfolio/static/css/main.ab3769c0.css",
+    "main.js": "/JamesWeber_DA_W22Portfolio/static/js/main.b8a2c7ee.js",
     "static/js/787.1ed0c42c.chunk.js": "/JamesWeber_DA_W22Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/JamesWeber_DA_W22Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/deans_list_2.png": "/JamesWeber_DA_W22Portfolio/static/media/deans_list_2.73bb956d3000b2029541.png",
+    "static/media/deans_list_4.png": "/JamesWeber_DA_W22Portfolio/static/media/deans_list_4.9804517b60ff340097fd.png",
+    "static/media/deans_list_3.png": "/JamesWeber_DA_W22Portfolio/static/media/deans_list_3.a3065b3b3ed924805363.png",
+    "static/media/deans_list_1.png": "/JamesWeber_DA_W22Portfolio/static/media/deans_list_1.20c8085d885c104d390e.png",
+    "static/media/deans_list_5.png": "/JamesWeber_DA_W22Portfolio/static/media/deans_list_5.e21c9c8a1114a324bb6e.png",
     "index.html": "/JamesWeber_DA_W22Portfolio/index.html",
-    "main.0ef229a7.css.map": "/JamesWeber_DA_W22Portfolio/static/css/main.0ef229a7.css.map",
-    "main.cec606a4.js.map": "/JamesWeber_DA_W22Portfolio/static/js/main.cec606a4.js.map",
+    "main.ab3769c0.css.map": "/JamesWeber_DA_W22Portfolio/static/css/main.ab3769c0.css.map",
+    "main.b8a2c7ee.js.map": "/JamesWeber_DA_W22Portfolio/static/js/main.b8a2c7ee.js.map",
     "787.1ed0c42c.chunk.js.map": "/JamesWeber_DA_W22Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ef229a7.css",
-    "static/js/main.cec606a4.js"
+    "static/css/main.ab3769c0.css",
+    "static/js/main.b8a2c7ee.js"
   ]
 }
